@@ -1,0 +1,93 @@
+/* Cameron Forrest Brand Styling */
+.navbar-light .navbar-brand {
+    color:#fff;
+    background-color: #4aaaa5;
+    padding:15px;
+}
+
+/* Nav Links Styling */
+.nav-link {
+    color:#777777
+}
+
+li+li {
+    border-left: 1px solid #cccccc;
+  }
+
+hr {
+    background-color: #7766;
+    padding:1px;
+
+}
+
+
+/* About Heading Styling */
+.about {
+    color:#4aaaa5;
+    padding-left:15px;
+    
+}
+
+/* Paragraph Styling */
+p {
+    color:#777777
+}
+
+body {
+    background-color: #fff;
+}
+
+.container {
+    background-color:#fff;
+}
+label {
+    color:#777777;
+}
+
+/* Footer */
+footer {
+    background-color: #777777;
+    padding:20px;
+    margin-top: 25px;
+    color:#fff;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;  
+    text-align: center;
+    position: sticky;
+
+}
+
+/* Portfolio Images*/
+#hangman {
+    background-image: url("../images/hangman.jpeg")
+  }
+  
+  #rpg {
+    background-image: url("../images/rpg.jpeg")
+  }
+  
+  #trivia {
+    background-image: url("../images/trivia.jpeg")
+  }
+  
+  #widget {
+    background-image: url("../images/vandy.jpeg")
+  }
+  
+  #rockpaperscissors {
+    background-image: url("../images/rockps.jpeg")
+  }
+
+  img.img-thumbnail {
+      height: 250px;
+      width: 250px;
+      margin-bottom: 20px;
+  }
+
+  h3 {
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 150px;
+  }
